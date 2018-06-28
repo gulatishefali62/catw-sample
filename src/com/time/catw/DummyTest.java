@@ -9,6 +9,7 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 
 public class DummyTest {
 
+// creating element of type webelement
 	WebElement element;
 	public static void main(String[] args) throws Exception {
 		
